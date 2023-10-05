@@ -32,7 +32,11 @@ Makes up most of my repos because Dev Academy was what introduced me to github.
 
 [Pre-Bootcamp first website](https://github.com/Kate-Hooker/Kate-Hooker.github.io) created to gain access to the Dev Academy foundations course. First website I ever made. 
 
+[Memory Card Game](https://github.com/Kate-Hooker/memory-game-project) my first big React project - had CSS provided, created and followed instructions provided in the projects ReadMe to make the game work.
+
 #### Group Projects
+
+[News Reader](https://github.com/Kate-Hooker/news-reader) a 24hour agile group project, combined 2 APIs (one to find the main new articles being published in different parts of the world and summarises them, the other is a screen reader)  
 
 
 <!---
