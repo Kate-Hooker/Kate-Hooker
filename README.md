@@ -7,32 +7,18 @@ My projects are split into three groups:
 - Personal projects
 ```
 
-
-### Tutorials
-I do tutorials to learn new tech stacks and practise areas that I wanted to revisit after my course:
-
-[Postit](https://github.com/Kate-Hooker/postit) is my most recent tutorial project - I want to familiarise myself with Prisma because I like how it universally handles databases.
-
-
-
-### Personal Projects 
-These are often about practising my course materials and slowly expanding on foundational learning:
-
-[Packing List](https://github.com/Kate-Hooker/packing-list) is a deployed full stack project I did to practise building APIS and creating, retrieving, updating and deleting data.
-
-[Blackjack](https://github.com/Kate-Hooker/blackjack/tree/main) was the last project I did before I entered bootcamp. I taught myself java and learnt JS during my four week code foundatiom course. This was the first self made project I did.  
-
-
 ### Course Work 
-Accounts for most of my repos because Dev Academy was what introduced me to github.
+_Accounts for most of my repos because Dev Academy was what introduced me to github._
+
 
 #### Solo Projects
 
-[UFO Reporter](https://github.com/Kate-Hooker/unit-standards) created to show I had an understanding of routing and could create, retrieve, update and delete data from a JSON file
+[UFO Reporter](https://github.com/Kate-Hooker/unit-standards) created to show I had an understanding of routing and could create, retrieve, update and delete data from a JSON file.
 
 [Pre-Bootcamp first website](https://github.com/Kate-Hooker/Kate-Hooker.github.io) created to gain access to the Dev Academy foundations course. First website I ever made. 
 
 [Memory Card Game](https://github.com/Kate-Hooker/memory-game-project) my first big React project - had CSS provided, created and followed instructions provided in the projects ReadMe to make the game work.
+
 
 #### Group Projects
 
@@ -41,6 +27,24 @@ Accounts for most of my repos because Dev Academy was what introduced me to gith
 [Forragers Map](https://github.com/Kate-Hooker/Forragers-map) 24 hour agile project using a new tech stack and a map API to create an app that could benefit society in some way. Uses leaflet, knex, vanilla javascript and a database to allow users to share their favourite forraging spots. 
 
 [Monsta-Hunterz Trading Cards](https://github.com/mako-2023/Monsta-Hunterz) 24 hour agile project - challenge was to create a fun piece of coded software incorporating multiple databases (a database of players, a database of all cards available in the game, and a database of all the cards registered to each players deck) used AI to design all the card details and art. 
+
+
+
+### Tutorials
+_I do web tutorials to learn new tech stacks and practise areas that I wanted to revisit after my course:_
+
+[Postit](https://github.com/Kate-Hooker/postit) is my most recent tutorial project - I want to familiarise myself with Prisma because I like how it universally handles databases.
+
+
+
+
+### Personal Projects 
+_These are often about practising my course materials and slowly expanding on foundational learning:_
+
+[Packing List](https://github.com/Kate-Hooker/packing-list) is a deployed full stack project I did to practise building APIS and creating, retrieving, updating and deleting data.
+
+[Blackjack](https://github.com/Kate-Hooker/blackjack/tree/main) was the last project I did before I entered bootcamp. I taught myself java and learnt JS during my four week code foundatiom course. This was the first self made project I did.  
+
 
 
 <!---
