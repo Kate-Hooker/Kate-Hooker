@@ -43,7 +43,7 @@ _These are often about practising my course materials and slowly expanding on fo
 
 [Packing List](https://github.com/Kate-Hooker/packing-list) is a deployed full stack project I did to practise building APIS and creating, retrieving, updating and deleting data.
 
-[Blackjack](https://github.com/Kate-Hooker/blackjack/tree/main) was the last project I did before I entered bootcamp. I taught myself java and learnt JS during my four week code foundatiom course. This was the first self made project I did.  
+[Blackjack](https://github.com/Kate-Hooker/blackjack/tree/main) was the last project I did before I entered bootcamp. I taught myself java and learnt JS during my four week code foundatiom course. This was my first completely self-made project. 
 
 
 
