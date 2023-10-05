@@ -24,7 +24,7 @@ These are often about practising my course materials and slowly expanding on fou
 
 
 ### Course Work 
-Makes up most of my repos because Dev Academy was what introduced me to github.
+Accounts for most of my repos because Dev Academy was what introduced me to github.
 
 #### Solo Projects
 
