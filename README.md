@@ -36,7 +36,7 @@ Accounts for most of my repos because Dev Academy was what introduced me to gith
 
 #### Group Projects
 
-[News Reader](https://github.com/Kate-Hooker/news-reader) a 24 hour agile group project, combined 2 APIs (one to find the main new articles being published in different parts of the world and summarises them, the other is a screen reader)  
+[News Reader](https://github.com/Kate-Hooker/news-reader) a 24 hour agile group project, combined 2 APIs (one to find the main news articles being published in different parts of the world and summarise them, the other is a screen reader)  
 
 [Forragers Map](https://github.com/Kate-Hooker/Forragers-map) 24 hour agile project using a new tech stack and a map API to create an app that could benefit society in some way. Uses leaflet, knex, vanilla javascript and a database to allow users to share their favourite forraging spots. 
 
