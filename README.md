@@ -1,6 +1,6 @@
 ## Hi there welcome to the lab! 
 ```
-My projects split into three groups:
+My projects are split into three groups:
 
 - Dev Academy course work
 - Online tutorial projects
