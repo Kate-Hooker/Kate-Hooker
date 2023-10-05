@@ -7,10 +7,12 @@ My projects split into three groups:
 - Personal projects
 ```
 
+
 ### Tutorials
 I do tutorials to learn new tech stacks and practise areas that I wanted to revisit after my course:
 
 [Postit](https://github.com/Kate-Hooker/postit) is my most recent tutorial project - I want to familiarise myself with Prisma because I like how it universally handles databases.
+
 
 
 ### Personal Projects 
@@ -19,6 +21,7 @@ These are often about practising my course materials and slowly expanding on fou
 [Packing List](https://github.com/Kate-Hooker/packing-list) is a deployed full stack project I did to practise building APIS and creating, retrieving, updating and deleting data.
 
 [Blackjack](https://github.com/Kate-Hooker/blackjack/tree/main) was the last project I did before I entered bootcamp. I taught myself java and learnt JS during my four week code foundatiom course. This was the first self made project I did.  
+
 
 ### Course Work 
 Makes up most of my repos because Dev Academy was what introduced me to github.
@@ -29,7 +32,7 @@ Makes up most of my repos because Dev Academy was what introduced me to github.
 
 [Pre-Bootcamp first website](https://github.com/Kate-Hooker/Kate-Hooker.github.io) created to gain access to the Dev Academy foundations course. First website I ever made. 
 
-### Group Projects
+#### Group Projects
 
 
 <!---
