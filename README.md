@@ -1,4 +1,4 @@
-## Hi there welcome to the lab! 
+## Welcome
 ```
 My projects are split into three groups:
 
