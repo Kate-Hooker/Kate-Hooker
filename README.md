@@ -40,6 +40,8 @@ Accounts for most of my repos because Dev Academy was what introduced me to gith
 
 [Forragers Map](https://github.com/Kate-Hooker/Forragers-map) 24 hour agile project using a new tech stack and a map API to create an app that could benefit society in some way. Uses leaflet, knex, vanilla javascript and a database to allow users to share their favourite forraging spots. 
 
+[Monsta-Hunterz Trading Cards](https://github.com/mako-2023/Monsta-Hunterz) 24 hour agile project - challenge was to create a fun piece of coded software incorporating multiple databases (a database of players, a database of all cards available in the game, and a database of all the cards registered to each players deck) used AI to design all the card details and art. 
+
 
 <!---
 Kate-Hooker/Kate-Hooker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
