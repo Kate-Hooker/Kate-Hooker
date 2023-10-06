@@ -1,6 +1,6 @@
 ## Welcome
 ```
-My projects are split into three groups:
+These projects are split into three groups:
 
 - Dev Academy course work
 - Online tutorial projects
