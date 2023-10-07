@@ -8,7 +8,7 @@ These projects are split into three groups:
 ```
 
 ### Course Work 
-_This section accounts for many of my repos because Dev Academy was what introduced me to Github. Group projects have been cloned out of private group repos so will be missing data relating to the commits and development._
+_This section accounts for most of my repos because Dev Academy was what introduced me to Github. Group projects have been cloned out of private group repos so will be missing data relating to the commits and development._
 
 
 #### Solo Projects
