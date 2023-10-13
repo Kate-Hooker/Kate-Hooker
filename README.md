@@ -33,7 +33,7 @@ _This section accounts for most of my repos because Dev Academy was what introdu
 ### Tutorials
 _I use web tutorials to learn new tech stacks and practise areas that I wanted to revisit after my course:_
 
-[Postit](https://github.com/Kate-Hooker/postit) is my most recent tutorial project - I want to familiarise myself with Prisma because I like how it universally handles databases.
+[This Calculater](https://github.com/Kate-Hooker/React-calculater) is my most recent tutorial project. I really wanted to practise debugging so I staretd this one because I figured it would be very easy to follow the chain of events that makes the calculater work.
 
 
 
