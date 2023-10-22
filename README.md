@@ -33,7 +33,7 @@ _Currently a large portion of my GitHub is my coursework - Dev Academy introduce
 ### Tutorials
 _I use web tutorials to learn new tech stacks and practise areas that I wanted to revisit after my course:_
 
-[This Calculater](https://github.com/Kate-Hooker/React-calculater) is my most recent tutorial project. I really wanted to practise debugging so I started this one thinking it would be very easy to follow the chain of events that makes the calculater work.
+This [Calculater](https://github.com/Kate-Hooker/React-calculater) is my most recent tutorial project. I really wanted to practise debugging so I started this one thinking it would be very easy to follow the chain of events that makes the calculater work.
 
 
 
