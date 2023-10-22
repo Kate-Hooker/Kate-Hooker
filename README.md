@@ -35,6 +35,7 @@ _I use web tutorials to learn new tech stacks and practise areas that I wanted t
 
 This [Calculater](https://github.com/Kate-Hooker/React-calculater) is my most recent tutorial project. I really wanted to practise debugging so I started this one thinking it would be very easy to follow the chain of events that makes the calculater work.
 
+This [Recipe Search](https://github.com/Kate-Hooker/Recipe-app) was another front end tutorial I did to practise calling external APIs. 
 
 
 
